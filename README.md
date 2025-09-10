@@ -1,5 +1,12 @@
-# Google-Analytics
-"Turning raw Google Analytics data into actionable business insights."
+<p align="center">
+  <img 
+    src="https://github.com/AlkaShukla26/Google-Analytics/blob/main/ChatGPT%20Image%20Sep%2010%2C%202025%2C%2001_52_12%20PM.png" 
+    alt="Google Analytics Project Cover" 
+    width="567" 
+    height="265"
+  />
+</p>
+
 # Google Analytics E-commerce Analysis
 
 This project analyzes the *Google Merchandise Store* dataset (sample GA4 e-commerce dataset available in BigQuery Public Datasets) to uncover user behavior, conversion patterns, and business insights.  
